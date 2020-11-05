@@ -19,7 +19,6 @@ create table account (
 insert into account (name) values ('tenant1-user')
 ;
 
-
 set schema 'tenant2'
 ;
 create table account (
